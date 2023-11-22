@@ -169,3 +169,9 @@ a {
   display: flex;
   justify-content: center;
 }
+
+#indonesia{
+  border: 1px solid red;
+  border-radius: 20px;
+  transition: opacity 1s ease-in-out;
+}
