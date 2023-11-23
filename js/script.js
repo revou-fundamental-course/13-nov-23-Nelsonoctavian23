@@ -1,5 +1,5 @@
 const imageUrls = [
-    "assets/japan.jpg",
+    "assets/japan2.jpg",
     "assets/bandung.jpg",
     "assets/bali2.jpg",
 ];
